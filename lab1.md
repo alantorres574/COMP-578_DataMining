@@ -27,3 +27,4 @@
 	- The purpose of a print retrospective is to evaluate the development process and improve how the team work. 
 5. Story Points are used to measure the amount of work or effort that is required to complete section of work. Teams use them to decide how much work they complete in each sprint based on past performance.
 
+
