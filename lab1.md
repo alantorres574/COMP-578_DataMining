@@ -1,6 +1,6 @@
 <h1>COMP-550 Lab 01</h1>
 
-<h3>Tasks</h3>
+## Tasks
 
 ## Setting up Github
 1. I've created a Github account using my school email
@@ -28,6 +28,7 @@
 	- The purpose of a sprint review is to inspect the code and collect feedback. 
 	- The purpose of a print retrospective is to evaluate the development process and improve how the team work. 
 6. Story Points are used to measure the amount of work or effort that is required to complete section of work. Teams use them to decide how much work they complete in each sprint based on past performance.
+
 
 
 
