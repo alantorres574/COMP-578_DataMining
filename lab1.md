@@ -1,8 +1,8 @@
 <h1>COMP-550 Lab 01</h1>
 
 <h3>Tasks</h3>
-## Setting up Github
 
+## Setting up Github
 1. I've created a Github account using my school email
 2. I've received the invite 
 3. I've created my private repository
@@ -15,9 +15,12 @@
 
 ## Questions about Agile
 
+1. Examples of Functional and Non-functional requirements. 
+	- Functional: The system must recognize the license plates in order to allows the user into the structure. 
+	- Non-functional: The client would like the license plates to be recognized under 2 seconds and 99% accuracy. 
 3. XP vs. Scrum
-	-Scrum focuses on project management and team coordination and team coordination
-	-XP focuses on engineering and the quality of the code. 
+	- Scrum focuses on project management and team coordination and team coordination
+	- XP focuses on engineering and the quality of the code. 
 4. Scrum vs. Kanban
 	- In Scrum, work is organized in to a fixed length sprint. 
 	- While Kanban, has not sprints or sections. the work flow continuously. 
@@ -25,6 +28,7 @@
 	- The purpose of a sprint review is to inspect the code and collect feedback. 
 	- The purpose of a print retrospective is to evaluate the development process and improve how the team work. 
 6. Story Points are used to measure the amount of work or effort that is required to complete section of work. Teams use them to decide how much work they complete in each sprint based on past performance.
+
 
 
 
