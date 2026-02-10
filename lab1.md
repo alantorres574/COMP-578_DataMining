@@ -14,10 +14,7 @@
 3. I think developing each part of this system independently is straightforward, but the most challenging part would be making each system work well together. For example, reading license plates must be reliable and fast enough to avoid causing any issues with the regular flow of traffic. 
 
 ## Questions about Agile
-1. Examples of Functional and Non-functional requirements
 
-	-Functional: The system must recognize the license plates in order to allows the user into the structure. 
-	-Non-functional: The client would like the license plates to be recognized under 2 seconds and 99% accuracy. 
 3. XP vs. Scrum
 	-Scrum focuses on project management and team coordination and team coordination
 	-XP focuses on engineering and the quality of the code. 
@@ -28,6 +25,7 @@
 	- The purpose of a sprint review is to inspect the code and collect feedback. 
 	- The purpose of a print retrospective is to evaluate the development process and improve how the team work. 
 6. Story Points are used to measure the amount of work or effort that is required to complete section of work. Teams use them to decide how much work they complete in each sprint based on past performance.
+
 
 
 
